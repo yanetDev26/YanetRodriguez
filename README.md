@@ -1,5 +1,7 @@
 ### 👋 Hello, my name is Yanet Rodriguez
+</br>
 
+## Social networks:
 <a href="https://twitter.com/yanerodriguez26">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
