@@ -7,7 +7,8 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![Yanet github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=YanetRodriguez)
+## Github Stats:
+![Yanet](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=YanetRodriguez)
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
