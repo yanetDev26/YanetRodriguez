@@ -11,7 +11,7 @@
 </br>
 
 ## Github Stats:
-![Yanet](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=YanetRodriguez)
+![Yanet](https://github-readme-stats.vercel.app/api?username=YanetRodriguez&theme=gruvbox&show_icons=true)
 </br>
 
 ## Skills:
