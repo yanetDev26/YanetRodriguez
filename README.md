@@ -19,7 +19,7 @@
 </p><br>
 
 <p align="center">
-<a href="https://github.com/YanetRodriguez"><img src="https://img.shields.io/badge/ios-000000.svg?style=for-the-badge&logo=arch-linux&logoColor=000000&labelColor=ffffff" alt="ios"></a>
+<a href="https://github.com/YanetRodriguez"><img src="https://img.shields.io/badge/ios-000000.svg?style=for-the-badge&logo=arch-ios&logoColor=000000&labelColor=ffffff" alt="ios"></a>
 <a href="https://github.com/YanetRodriguez"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 </p><br>
 
