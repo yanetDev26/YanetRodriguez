@@ -10,10 +10,6 @@
 </a>
 </br>
 
-## Github Stats:
-![Yanet](https://github-readme-stats.vercel.app/api?username=YanetRodriguez&theme=gruvbox&show_icons=true)
-</br>
-
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
@@ -26,6 +22,4 @@
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![PostgreSql](https://img.shields.io/badge/postgresql-6566ba?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
