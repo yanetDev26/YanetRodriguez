@@ -31,7 +31,7 @@ In my repository you will find a series of projects that can help you start the 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 📱Android with Kotlin && iOS with Swift  
+- 📱Kotlin & iOS  
   
 
 - 👩🏻‍💻 I'm Women Techmakers Ambassador  
@@ -46,7 +46,7 @@ In my repository you will find a series of projects that can help you start the 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1hh-gw7izXWR4JZzy_kE0-AXDHIanir5g/view?usp=sharing" align="center" style="width: 100%" />
+<img src="https://docs.google.com/uc?export=download&id=1hh-gw7izXWR4JZzy_kE0-AXDHIanir5g" align="center" height="" width="" />
 </div>  
 
 
@@ -98,7 +98,7 @@ In my repository you will find a series of projects that can help you start the 
 
 ### Donate ☕  
 <div align="left">
-            <a href="https://paypal.me/@26yanet" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/26yanet" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="left"
